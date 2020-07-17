@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Gif from "./gif";
 import SearchBar from "./search_bar";
 import GifList from "./gif_list";
-
+import giphy from "giphy-api";
 const GIPHY_API_KEY = "1KMPHCBIOe3hOjJwCJQX49sRc6cM0oIm";
 
 class App extends Component {
