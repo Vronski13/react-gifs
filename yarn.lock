@@ -3021,6 +3021,11 @@ gh-pages@^2.0.1:
     graceful-fs "^4.1.11"
     rimraf "^2.6.2"
 
+giphy-api@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/giphy-api/-/giphy-api-2.0.1.tgz#30ddeb68d1346a592d26878db2fbc7ba1686ef91"
+  integrity sha512-6FKx6y26W1OqPtEOohvr3MOqCcYWajmz/svrjWm6XW2eP9mHvcQoi4aFg5afCakVF2b7zVllP0aNF45CGHZn+A==
+
 glob-parent@^3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-3.1.0.tgz#9e6af6299d8d3bd2bd40430832bd113df906c5ae"
@@ -5961,9 +5966,9 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
 ua-parser-js@^0.7.18:
-  version "0.7.19"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.19.tgz#94151be4c0a7fb1d001af7022fdaca4642659e4b"
-  integrity sha512-T3PVJ6uz8i0HzPxOF9SWzWAlfN/DavlpQqepn22xgve/5QecC+XMCAtmUNnY7C9StehaV6exjUCI801lOI7QlQ==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uglify-js@3.4.x:
   version "3.4.9"
